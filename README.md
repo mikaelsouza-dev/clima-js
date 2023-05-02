@@ -23,7 +23,7 @@ Navegador da web atualizado
 
 ## Instalação
 
-Clone o repositório: `git clone https://github.com/seu-usuario/clima.git`
+Clone o repositório: `git clone https://github.com/mikaelsouza-dev/clima-js.git`
 
 Abra o arquivo index.html em seu navegador
 
